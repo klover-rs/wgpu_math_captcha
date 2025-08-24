@@ -1,0 +1,14 @@
+[package]
+name = "cryptoboss"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ab_glyph = "0.2.31"
+bytemuck = "1.23.2"
+lazy_static = "1.5.0"
+pollster = "0.4.0"
+rand = "0.9.2"
+wgpu = "26.0.1"
+wgpu_glyph = "0.26.0"
+winit = "0.30.12"
